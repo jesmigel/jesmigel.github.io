@@ -7,7 +7,7 @@ up:
 	$(call compose, up -d)
 
 down:
-	$(call compose, down)
+	$(call compose, down -v)
 
 status:
 	$(call compose, ps)
@@ -18,8 +18,8 @@ logs:
 login:
 	$(call exec, bash)
 
-bundle:
-	$(call exec, jekyll bundle)
+clean: down
+	rm -rf _site
 
 build:
 	$(call exec, jekyll build)
