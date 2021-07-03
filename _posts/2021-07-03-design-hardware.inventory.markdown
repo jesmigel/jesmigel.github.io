@@ -1,8 +1,8 @@
 ---
-layout: post-markdown
+layout: post
 title: Hardware List
 category: design
-permalink: design-hardware.html
+permalink: design-hardware-inventory.html
 summary: Servers, routers, switches, etc...
 ---
 

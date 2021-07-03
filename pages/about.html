@@ -10,3 +10,11 @@ category: about
     <h2>{{ site.data.menu.menu_headline }}</h2>
     <p>{{ site.data.menu.menu_intro }}</p>
 </div>
+
+<ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
