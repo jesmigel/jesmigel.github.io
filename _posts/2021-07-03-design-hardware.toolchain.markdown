@@ -2,7 +2,7 @@
 layout: post
 title: Baremetal ToolChain
 category: design
-permalink: design-bmc-toolchain.html
+permalink: design-hardware-toolchain.html
 summary: Baremetal management software stack
 ---
 

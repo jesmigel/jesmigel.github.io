@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baremetal ToolChain
+title: Baremetal Configuration
 category: design
 permalink: design-hardware-configuration.html
 summary: Baremetal management software stack
