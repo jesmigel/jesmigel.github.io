@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Platform toolchain
+title: Platform Tool Chain
 category: design
 permalink: design-platform-toolchain.html
 summary: Virtual platform software stack

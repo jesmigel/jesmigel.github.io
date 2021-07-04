@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baremetal ToolChain
+title: Baremetal Tool Chain
 category: design
 permalink: design-hardware-toolchain.html
 summary: Baremetal management software stack
