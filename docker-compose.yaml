@@ -5,6 +5,8 @@ services:
     image: jekyll/jekyll:latest    
     command: jekyll serve --watch --force_polling --verbose
     tty: true
+    environment:
+      TZ: "Australia/Melbourne"
     ports:
     - 4000:4000
     - 35729:35729
