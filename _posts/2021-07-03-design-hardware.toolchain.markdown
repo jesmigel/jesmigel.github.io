@@ -10,8 +10,9 @@ summary: Baremetal management software stack
 
 | Name | Description |
 | :--- | :--- |
-| iDRAC | Integrated Dell Remote Access Controller |
-| VMWare ESXi | Hypervisor OS |
-| VMWare vCenter | Centralized management utility |
+| [PiHole](https://docs.pi-hole.net/) | DNS Sinkhole.|
+| [iDRAC](https://www.delltechnologies.com/en-au/solutions/openmanage/idrac.htm) | Integrated Dell Remote Access Controller |
+| [VMWare ESXi](https://www.vmware.com/au/products/esxi-and-esx.html) | Baremetal Hypervisor |
+| [VMWare vCenter](https://www.vmware.com/au/products/vcenter-server.html) | Server Management Software |
 | Canonical MaaS | Metal as a Service. Bootstraps (PXE boot) baremetal hosts |
 |||

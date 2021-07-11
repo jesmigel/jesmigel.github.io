@@ -10,6 +10,7 @@ summary: Servers, routers, switches, etc...
 
 | Model | Description |
 | :--- | :--- |
+| [RaspberryPI](https://www.raspberrypi.org/) | Global DNS and Firewall |
 | [Dell PowerEdge r710 (3x)](https://www.dell.com/support/home/en-au/product-support/product/poweredge-r710/docs){:target="_blank"} &nbsp;&nbsp;&nbsp;| Management nodes |
 | [Dell PowerEdge r810](https://www.dell.com/support/home/en-au/product-support/product/poweredge-r810/docs){:target="_blank"} | Compute node |
 | [Synology DS (1010+)](https://www.synology.com/en-global/products?tower=ds_j%2Cds_plus%2Cds_value%2Cds_xs){:target="_blank"} | Network attached storage |
