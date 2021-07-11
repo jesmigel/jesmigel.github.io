@@ -48,11 +48,11 @@ menu_pages:
 
 menu_contacts:
 - faicon: fab fa-github-alt
-  url: 
-  target: _blank
-- faicon: fab fa-twitter
-  url: 
+  url: https://github.com/jesmigel
   target: _blank
 - faicon: fas fa-envelope
-  url:
-  target: 
+  url: mailto:jesmigel.developer@gmail.com
+  target: _blank
+- faicon: fab fa-linkedin-in
+  url: https://www.linkedin.com/in/jesmigel/
+  target: _blank
