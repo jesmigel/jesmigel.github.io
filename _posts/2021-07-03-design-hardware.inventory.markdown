@@ -30,7 +30,7 @@ summary: Servers, routers, switches, etc...
 
 - Router acts as an entrypoint
 - Switch enables connectivity between devices
-- RasPi acts as DNS sinkhole allowing name resolution of initial management specific tools
+- RasPi acts as DNS sinkhole allowing name resolution of initial management tools.
 - Synology 1010 is the default external hot storage
 - r710 first node to be configured as the hypervisor host
 - r810 first node to be integrated as compute intensive hypervisor host
