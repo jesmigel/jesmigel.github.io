@@ -26,7 +26,7 @@ summary: Servers, routers, switches, etc...
 |||
 
 ### Purpose
-![alt text](https://github.com/jesmigel/diagrams/blob/main/data/hardware.diagram.png?raw=true "test")
+![alt text](https://github.com/jesmigel/diagrams/blob/main/data/hardware.diagram.png?raw=true "hardware diagram")
 
 - Router acts as an entrypoint
 - Switch enables connectivity between devices
