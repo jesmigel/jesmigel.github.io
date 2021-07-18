@@ -15,7 +15,7 @@ menu_pages:
 - title: Design
   url: /design.html
   show_on_home: True
-  image_url: https://github.com/jesmigel/diagrams/blob/main/data/baremetal.png?raw=true
+  image_url: https://github.com/jesmigel/diagrams/blob/main/data/hardware.diagram.png?raw=true
   icon_name: fa fa-pencil-square-o
   category: design
   tooltip: Design
@@ -24,7 +24,7 @@ menu_pages:
 - title: Development
   url: /development.html
   show_on_home: True
-  image_url: https://github.com/jesmigel/diagrams/blob/main/data/infrastructure.png?raw=true
+  image_url: https://github.com/jesmigel/diagrams/blob/main/data/component.hld.png?raw=true
   icon_name: fa fa-file-code-o
   category: development
   tooltip: Development
@@ -33,7 +33,7 @@ menu_pages:
 - title: Implementation
   url: /implementation.html
   show_on_home: True
-  image_url: assets/img/sequence.jpeg
+  image_url: https://github.com/jesmigel/diagrams/blob/main/data/infrastructure.png?raw=true
   icon_name: fas fa-cogs
   category: implementation
   tooltip: Implementation
