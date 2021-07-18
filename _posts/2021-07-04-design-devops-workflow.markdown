@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevOps Methodology
+title: DevOps Workflow
 category: design
 permalink: design-devops-workflow.html
 summary: Software development lifecycle

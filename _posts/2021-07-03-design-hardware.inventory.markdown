@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category-member
 title: Hardware Inventory
 category: design
 permalink: design-hardware-inventory.html
@@ -25,6 +25,15 @@ summary: Servers, routers, switches, etc...
 | [Ubiquiti UniFi US-24](https://store.ui.com/collections/unifi-network-switching/products/usw-24-poe){:target="_blank"} |   24-port Fully Managed Gigabit Switch with SFP |
 |||
 
+### Purpose
+![alt text](https://github.com/jesmigel/diagrams/blob/main/data/hardware.diagram.png?raw=true "test")
+
+- Router acts as an entrypoint
+- Switch enables connectivity between devices
+- RasPi allows name resolution of Baremetal
+- Synology 1010 is the default external hot storage
+- r710 first node to be configured as the hypervisor host
+- r810 first node to be integrated as compute intensive hypervisor host
+
 ### ToDo
-- Diagrams
-- Description
+- Expand description
